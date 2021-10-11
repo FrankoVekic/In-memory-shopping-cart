@@ -1,0 +1,2 @@
+---PROGRAM---
+php --YOUR--PATH--\app\Inventory.php
