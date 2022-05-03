@@ -45,8 +45,4 @@ class Item {
     public function setPrice($price){
         $this->price = $price;
     }
-
-    public function addToCart(ShoppingCart $cart, int $quantity){
-        return $cart->addItem($this, $quantity);
-    }
 }
