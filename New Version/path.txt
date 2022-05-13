@@ -1,2 +1,2 @@
 ---PROGRAM---
-php --YOUR--PATH--\app\Stageone.php
+php --YOUR--PATH--\app\index.php
